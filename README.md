@@ -1,5 +1,11 @@
 # Trained A Neural Network To Play 2048 using Deep-Reinforcement Learning
 
+## Watch the Network Playing 2048!
+
+<p align = "center">
+<img src =  https://github.com/navjindervirdee/2048-deep-reinforcement-learning/blob/master/Game%20Video/game.gif >
+</p>
+
 ## 2048 Game
 2048 is a single-player sliding block puzzle game designed by Italian web developer Gabriele Cirulli. The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048; however, you can keep playing the game, creating tiles with larger numbers.
 
@@ -45,10 +51,4 @@ Reinforcement learning (RL) is an area of machine learning inspired by behaviour
 
 <p align = "center">
 <img src = "https://github.com/navjindervirdee/2048-deep-reinforcement-learning/blob/master/Game%20Outcomes/Outcome.JPG?raw=true">
-</p>
-
-## 2048 Video
-
-<p align = "center">
-<img src =  https://github.com/navjindervirdee/2048-deep-reinforcement-learning/blob/master/Game%20Video/game.gif >
 </p>
