@@ -48,6 +48,7 @@ Reinforcement learning (RL) is an area of machine learning inspired by behaviour
 </p>
 
 ## 2048 Video
+
 <p align = "center">
-<img src =  "https://github.com/navjindervirdee/2048-deep-reinforcement-learning/blob/master/2048%20Score/2048.JPG?raw=true">
+<img src =  https://github.com/navjindervirdee/2048-deep-reinforcement-learning/blob/master/Game%20Video/game.gif >
 </p>
